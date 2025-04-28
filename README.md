@@ -1,4 +1,4 @@
-# Awareson-Purdue
+# Awesome-Purdue
 
 Collection of useful websites about Purdue University
 
