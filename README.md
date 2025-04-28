@@ -1,4 +1,4 @@
-# Awerson-Purdue
+# Awareson-Purdue
 
 Collection of useful websites about Purdue University
 
