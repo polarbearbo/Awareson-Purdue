@@ -1,73 +1,86 @@
 # Awesome-Purdue
 
-Helper for upcoming and new boilermakers
+**Helper for New & Future Boilermakers**  
 
 ---
 
-- **First Thing** -- Account Setup
-  
-  Create your two way purdue account and password and DUO mobile
+## 🚀 Getting Started
 
-- **General**
-  
-  [Mypurdue](https://mypurdue.purdue.edu): The official portal for class registration, financial information, and more.
-  
-  [mypurdueplan](https://mypurdueplan.purdue.edu/): Plan your academic path and track your progress toward graduation.
-  
-  [successfactor](https://one.purdue.edu/task/all/successfactors-employee): If you're employed by Purdue, use this site to report your timesheets.
-  
-  [How to pay tuition and fees]((https://www.purdue.edu/treasurer/finance/bursar-office/payment/)): Purdue Bursar, there are step-by-step how to pay tuition.
+### Account Setup
 
-- **School Work**
-  
-  [Brightspace](https://purdue.brightspace.com/d2l/login): The main platform for accessing class materials, assignments, and announcements.
-  
-  [Gradescope](https://www.gradescope.com/): A common platform used by professors to post grades and collect assignments.
-  
-  [Piazza](%5Bhttps://piazza.com/%5D(https://piazza.com/)): Ask questions and get help from professors, TAs, and classmates.
+- Create your **Purdue two-factor account** and set up **DUO Mobile**.  
 
-- **GPA Helpers**
-  
-  [Boiler Exams](%5Bhttps://www.boilerexams.com/%5D(https://www.boilerexams.com/)): The best exam review helper for Boilermakers.
-  
-  [Boiler Grades](https://www.boilergrades.com/): Check your professors' average GPA easily through this website.
-  
-  [Boiler Classes](https://boilerclasses.com/): View class offerings and see which professors have taught them in the past.
-  
-  [Rate My Professor](https://www.ratemyprofessors.com/): Find ratings and reviews for your professors from other Boilermakers.
+---
 
-- **Connection**
-  
-  [Boiler Connect]([BoilerConnect - Purdue University](https://www.purdue.edu/boilerconnect/)): Schedule appointments with your professors and academic advisors.
+## 📚 Academic Essentials
 
-- **Transportation**
-  
-  [MyCityBus](https://bus.gocitybus.com/RouteMap/Index): Bus system in Greater Lafayette Area. There are mobile version on Apple Store and Google Play.
-  
-  [Lafayette Limo](https://www.lafayettelimo.com/):  Shuttle from Chicago O'HARE (ORD) and Indianapolis Airports
-  
-  [Reindeer Shuttle](https://www.reindeershuttle.com/): Shuttle from Chicago O'HARE (ORD) and Indianapolis Airports
-  
-  [Greyhound](https://www.greyhound.com/): Shuttle from Chicago O'HARE (ORD) and Indianapolis Airports
+### Core Tools
 
-- **International Student**
-  
-  [Purdue ISS]([Welcome to the MyISS Services Login Page](https://connect.iss.purdue.edu/istart/controllers/start/StartEngine.cfm)): Helpful for international students with F1 and J1 Visas
+- [MyPurdue](https://mypurdue.purdue.edu): Class registration, financial records, and university portal.  
+- [Brightspace](https://purdue.brightspace.com/d2l/login): Course materials, assignments, and announcements.  
+- [Gradescope](https://www.gradescope.com/): Submit assignments and view grades.  
+- [Piazza](https://piazza.com/): Course Q&A with professors and classmates.  
 
-- **Dinning**
-  
-  [Menus](https://dining.purdue.edu/menus/): Menus over five different dinning courts and ON-THE-GO
+### Academic Planning
 
-- **Clubs**
-  
-  [BoilerLink](https://www.boilerlink.purdue.edu/?_gl=1*15f20yp*_gcl_au*NTQ1MDAxMTE2LjE3Mzk5MjAzMTg.*_ga*MTM2NzI0NDgyMC4xNzM5OTIwMzE4*_ga_PF1CYQ27F6*MTc0NTk2NzY3NC45LjEuMTc0NTk2ODYxMy4wLjAuMA..): There are lots of clubs in Purdue which you can trying.
-  
-  [CoRec](https://www.purdue.edu/recwell/): The one and biggest gym on campus. Go to check it out
+- [MyPurduePlan](https://mypurdueplan.purdue.edu/): Track degree progress and plan courses.  
+- [BoilerConnect](https://www.purdue.edu/boilerconnect/): Schedule meetings with advisors or professors.  
 
-- **Health service and Insurance**
+### GPA & Course Insights
 
-        [Purdue Student Insurance](https://purdueship.myahpcare.com/): There are different plans of insurance which you can         pick.
+- [Boiler Grades](https://www.boilergrades.com/): Average GPAs for professors and classes.  
+- [Boiler Exams](https://www.boilerexams.com/): Exam prep resources.  
+- [Rate My Professor](https://www.ratemyprofessors.com/): Student reviews of professors.  
+- [Boiler Classes](https://boilerclasses.com/): Current and past classes.
+- [Purdue.io](https://purdue.io/): Location of untaken lectures.
 
-        [Purdue University Student Health Services](https://www.purdue.edu/push/): No matter what illness you have, go to         PUSH. The doctors can help you.
+---
 
+## 🏫 Campus Life
 
+### Dining & Health
+
+- [Dining Menus](https://dining.purdue.edu/menus/): Menus for dining courts and On-The-Go options.  
+- [PUSH](https://www.purdue.edu/push/): On-campus medical care.  
+- [Student Insurance](https://purdueship.myahpcare.com/): Compare and enroll in health plans.  
+
+### Clubs & Recreation
+
+- [BoilerLink](https://www.boilerlink.purdue.edu/): Explore 1,000+ student clubs.  
+- [CoRec](https://www.purdue.edu/recwell/): Purdue’s largest gym and recreation center.  
+
+---
+
+## 🚌 Transportation
+
+### Local Transit
+
+- [MyCityBus](https://bus.gocitybus.com/): Bus routes in Greater Lafayette.  
+
+### Airport Shuttles
+
+- [Lafayette Limo](https://www.lafayettelimo.com/)  
+- [Reindeer Shuttle](https://www.reindeershuttle.com/)  
+- [Greyhound](https://www.greyhound.com/)  
+
+---
+
+## 🌍 International Students
+
+- [Purdue ISS](https://connect.iss.purdue.edu/): Visa support, immigration resources, and advising.  
+
+---
+
+## 💼 Student Employees
+
+- [SuccessFactors](https://one.purdue.edu/task/all/successfactors-employee): Submit timesheets (for Purdue-employed students).  
+
+---
+
+## 💸 Financials
+
+- [Pay Tuition](https://www.purdue.edu/treasurer/finance/bursar-office/payment/): Step-by-step payment guide via Purdue Bursar.  
+
+---
+
+*Built with 🚂 by Boilermakers, for Boilermakers.*  
