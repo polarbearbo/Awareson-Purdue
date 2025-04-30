@@ -1,3 +1,5 @@
+🌐 Languages: [English](README.md) | [中文](README.zh.md)
+
 # Awesome-Purdue
 
 **Helper for New & Future Boilermakers**  

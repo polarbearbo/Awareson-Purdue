@@ -1,3 +1,5 @@
+🌐 Languages: [English](README.md) | [中文](README.zh.md) 
+
 # Awesome-Purdue
 
 **普渡大学新生及在读学生的实用指南**  
