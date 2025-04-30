@@ -12,14 +12,14 @@
 
 ---
 
-## 📚 Academic Essentials
+## 📚 Academic Requirements
 
 ### Core Tools
 
 - [MyPurdue](https://mypurdue.purdue.edu): Class registration, financial records, and university portal.  
 - [Brightspace](https://purdue.brightspace.com/d2l/login): Course materials, assignments, and announcements.  
-- [Gradescope](https://www.gradescope.com/): Submit assignments and view grades.  
-- [Piazza](https://piazza.com/): Course Q&A with professors and classmates.  
+- [Gradescope](https://www.gradescope.com/): Submit assignments and view grades (**used by some courses**).  
+- [Piazza](https://piazza.com/): Course Q&A with professors and classmates (**used by some courses**).  
 
 ### Academic Planning
 
@@ -30,8 +30,8 @@
 
 - [Boiler Grades](https://www.boilergrades.com/): Average GPAs for professors and classes.  
 - [Boiler Exams](https://www.boilerexams.com/): Exam prep resources.  
-- [Rate My Professor](https://www.ratemyprofessors.com/): Student reviews of professors.  
 - [Boiler Classes](https://boilerclasses.com/): Current and past classes.
+- [Rate My Professor](https://www.ratemyprofessors.com/): Student reviews of professors.  
 - [Purdue.io](https://purdue.io/): Location of untaken lectures.
 
 ---
@@ -65,13 +65,13 @@
 
 ---
 
-## 🌍 International Students
+## 🌎 International Students
 
-- [Purdue ISS](https://connect.iss.purdue.edu/): Visa support, immigration resources, and advising.  
+- [Purdue ISS](https://connect.iss.purdue.edu/): Visa support, and advising.  
 
 ---
 
-## 💼 Student Employees
+## 📋 Student Employees
 
 - [SuccessFactors](https://one.purdue.edu/task/all/successfactors-employee): Submit timesheets (for Purdue-employed students).  
 
